@@ -8,3 +8,4 @@ OpenCV study with Python PyCharm
 + 34:12 Chapter 4
 + 45:00 Chapter 5
 + 50:05 Chapter 6
++ 56:14 Chapter 7
